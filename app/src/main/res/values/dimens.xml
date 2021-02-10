@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="margin_r_image_view_add_to_favourite">30dp</dimen>
+    <dimen name="null_dp_width">0dp</dimen>
+    <dimen name="width_image_favourite">40dp</dimen>
+    <dimen name="margin_image_favourite">16dp</dimen>
+    <dimen name="margin_text_title">8dp</dimen>
+    <dimen name="margin_label_origin_title">8dp</dimen>
+    <dimen name="margin_label_rating">8dp</dimen>
+    <dimen name="margin_label_release_date">8dp</dimen>
+    <dimen name="margin_label_description">8dp</dimen>
+    <dimen name="margin_card_view">8dp</dimen>
+    <dimen name="padding_layout_of_card_view">10dp</dimen>
+    <dimen name="margin_author">8dp</dimen>
+    <dimen name="margin_content">8dp</dimen>
+    <dimen name="margin_image_play">8dp</dimen>
+    <dimen name="width_height_image_view_play">60dp</dimen>
+    <dimen name="margin_name_of_video">8dp</dimen>
+</resources>
